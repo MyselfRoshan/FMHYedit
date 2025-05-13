@@ -51,7 +51,6 @@
 * [EbookFoundation Courses](https://github.com/EbookFoundation/free-programming-books#free-online-courses) - Courses
 * [OpenCulture](https://www.openculture.com/freeonlinecourses) - Courses
 * [DigitalGarage](https://grow.google/intl/uk/courses-and-tools/) - Google Courses
-* [Hillsdale College](https://online.hillsdale.edu/) - Courses
 * [OpenHPI](https://open.hpi.de/) - Courses
 * [OLI](https://oli.cmu.edu/independent-learner-courses/) - Courses
 * [LearnOutLoud](https://www.learnoutloud.com/) - Documentaries / Courses
@@ -100,12 +99,12 @@
 
 # ► Learning Sites
 
-* 🌐 **[The Free Learning List](https://freelearninglist.org/)** - Learning Resources
 * 🌐 **[Learn Anything](https://learn-anything.xyz/)** - Learning Resource Search / [Free Method](https://rentry.co/FMHYBase64#learn-anything)
 * 🌐 **[Wakelet](https://wakelet.com/explore)** - Learning Resources
 * 🌐 **[WISC](https://www.wisc-online.com/)** - Learning Resources
 * 🌐 **[OpenCulture](https://www.openculture.com/)** - Learning Resources
 * 🌐 **[OSSU](https://github.com/ossu/)** - Learning Resources / [Discord](https://discord.gg/wuytwK5s9h)
+* 🌐 **[The Free Learning List](https://freelearninglist.org/)** - Learning Resources
 * 🌐 **[Awesome Educational Games](https://github.com/yrgo/awesome-educational-games)** - Educational Games Index
 * 🌐 **[IQ Tests](https://redd.it/146fmpr)** - IQ Test Sites / Accuracy Ratings
 * ↪️ **[Ebook Sites](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/reading#wiki_.25BA_educational_books)**
@@ -119,6 +118,7 @@
 * [Ted Talks](https://www.ted.com/) - Inspiring and Educational Talks
 * [Stack Exchange](https://stackexchange.com/) or [Quetre](https://quetre.iket.me) - Q&A Communities
 * [ISODN](https://discord.gg/k3zkD2y) - International Science Olympiads Discord Community
+* [Learn About](https://learning.google.com/experiments/learn-about) - Google's Educational Search AI
 * [AFAIK](https://afaik.io/) - Learning Map / [Discord](https://discord.gg/mMNwRvWM8s)
 * [Open Educational Resources](https://cdn-infographic.pressidium.com/wp-content/uploads/How-to-Search-for-Open-Educational-Resources-Infographic.jpg) - How to Search for Open Educational Resources
 * [AnimaGraffs](https://animagraffs.com/) - Animated Infographs
@@ -229,7 +229,6 @@
 * [Sketchplanations](https://www.sketchplanations.com/) - Explanation Sketches
 * [IEoP](https://iep.utm.edu/fallacy/), [YouLogicalFallacyIs](https://yourlogicalfallacyis.com/), [FallacyFiles](https://fallacyfiles.org/index.html) or [LogicalFallacies](https://www.logicalfallacies.org/) - Learn about Logical Fallacies
 * [YourBias.is](https://yourbias.is/) - Learn about Biases
-* [RationalWiki](https://rationalwiki.org/) - Pseudoscience Refutation Wiki
 * [Advanced Logic Calculators](https://github.com/fmhy/FMHY/wiki/FMHY%E2%80%90Notes.md#advanced-logic-calculators)
 * [Kialo](https://www.kialo.com/) - Debates / Discussion
 * [WikEnigma](https://wikenigma.org.uk/) - 'Known Unknowns' Wiki
@@ -246,10 +245,10 @@
 * ↪️ **[Sheet Music / Notation](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/audio#wiki_.25B7_sheet_music_.2F_notation)**
 * ⭐ **[Muted](https://muted.io/)**, **[Open Music Theory](https://viva.pressbooks.pub/openmusictheory/)** / [2](https://openmusictheory.github.io/), [Chromatone](https://chromatone.center/), [Teoria](https://www.teoria.com/index.php), [SimplifyingTheory](https://www.simplifyingtheory.com/), [LightNote](https://www.lightnote.co/) or [Music Theory](https://www.musictheory.net/) - Music Theory
 * [AudioZ](https://audioz.download/tutorials/) - Audio Courses / [Forum](https://audiosex.pro/)
-* [Helio](https://helio.fm/) or [NoteHeads](https://noteheads.net/) - Music Composition Tools
+* [Helio](https://helio.fm/) / [GitHub](https://github.com/helio-fm/helio-sequencer) or [NoteHeads](https://noteheads.net/) - Music Composition Tools
 * [MusicKit](https://musickit.jull.dev/) or [Tone Generator](https://www.szynalski.com/tone-generator/) - Metronome, Tuner & Tone Generators
 * [Tuner Ninja](https://tuner.ninja/) - Instrument Tuner
-* [Circle of Fifths](https://muted.io/circle-of-fifths/) - Visualize Notes, Cords & Keys
+* [Circle of Fifths](https://muted.io/circle-of-fifths/) - Visualize Notes, Cords and Keys
 * [ScoreCloud](https://scorecloud.com/), [ChordReader2](https://github.com/AndInTheClouds/chordreader2) or [Chordify](https://chordify.net/) - Chord Detection / Transcriber
 * [Arpeggiator](https://codepen.io/jakealbaugh/full/qNrZyw), [Chordi](https://chordi.co/) or [AutoChords](https://autochords.com/) - Chord Progression Generators
 * [HookTheory](https://www.hooktheory.com/trends) - Chord Progression Library
@@ -295,7 +294,7 @@
 * [DoArtDaily](https://dad.gallery) - Daily Art Challenges
 * [Character Design References](https://characterdesignreferences.com/visual-library) - Character Design Visual Library
 * [FloobyNooby](http://www.floobynooby.com/comp1.html), [Let's Learn Storyboarding](https://nicparris.gumroad.com/l/JyCxo), [JMMStoryboardTips](https://jimmortensen.gumroad.com/l/JMMStoryboardTips) or [A Guide to Storyboards](https://magicbunnyart.gumroad.com/l/fjvKA) - Storyboard Guides
-* [MangaMaterials](https://www.youtube.com/channel/UCnx8zKs3c3yeFPYQ2QzMqLA/), [animesijyuku](https://www.youtube.com/@animesijyuku/) or [DoKiDoKiDrawing](https://www.youtube.com/@DoKiDoKiDrawing/) - Manga Video Tutorials / [X](https://x.com/mangamaterials2) / [Pixiv](https://www.pixiv.net/en/users/16776564)
+* [MangaMaterials](https://www.youtube.com/channel/UCnx8zKs3c3yeFPYQ2QzMqLA/) / [X](https://x.com/mangamaterials2), [animesijyuku](https://www.youtube.com/@animesijyuku/) or [DoKiDoKiDrawing](https://www.youtube.com/@DoKiDoKiDrawing/) - Manga Video Tutorials / [Pixiv](https://www.pixiv.net/en/users/16776564)
 * [Settei Dreams](https://setteidreams.net/) - Anime Production Materials
 * [Anime Study General](https://discord.gg/3bwdfRk) - Anime Production Community
 * [McLelun](http://www.mclelun.com/p/tutorial.html) - Anime Style Background Tutorial
@@ -430,7 +429,6 @@
 * [Spitfire Panorama](https://www.haraldjoergens.com/panoramas/spitfire-td314/files/) - Spitfire Mark IX Cockpit Interactve Panorama
 * [Virtual Vist Tours](https://www.virtualvisittours.com/) - Ireland Virtual Tours
 * [Matterport](https://matterport.com/discover) - Explore Real Places Digitally
-* [Hashima Island](https://www.hashima-island.co.uk/) - Hashima Island Virtual Tour
 * [Basilica Viewer](https://virtual.basilicasanpietro.va/en/basilica-viewer/) - St. Peter’s Basilica Tour
 * [360Cities](https://www.360cities.net/), [Zhijianshang](https://www.zhijianshang.com/) or [Airpano](https://www.airpano.com/) - 360 Images / Videos
 * [Smithsonian 3D](https://3d.si.edu/) - Smithsonian 3D Digitization Museum
@@ -594,7 +592,7 @@
 * ↪️ **[Comp Sci Resources](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/edu/#wiki_.25B7_computer_science)**
 * ↪️ **[3D Modeling](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/img-tools#wiki_.25BA_3d_models) / [CAD Apps](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/img-tools#wiki_.25B7_cad_engineering)**
 * ⭐ **[/r/AskEngineers](https://www.reddit.com/r/AskEngineers/)** / [Wiki](https://www.reddit.com/r/AskEngineers/wiki/), **[/r/engineering](https://www.reddit.com/r/engineering/)** or [/r/AutomotiveEngineering](https://www.reddit.com/r/AutomotiveEngineering/) - Engineering Subreddits
-* ⭐ **[NPTEL](https://nptel.ac.in/course.html)** or [Sabin](https://www.youtube.com/@SabinCivil) - Engineering Courses
+* ⭐ **[NPTEL](https://nptel.ac.in/courses)** or [Sabin](https://www.youtube.com/@SabinCivil) - Engineering Courses
 * [Formulia](https://play.google.com/store/apps/details?id=m4.enginary) - Engineering Formulas / Tools
 * [Sanfoundry](https://www.sanfoundry.com/) - Engineering Questions & Answers
 * [CESDB](https://www.cesdb.com/) - Engineering Software
@@ -700,7 +698,7 @@
 * [University of Minnesota Histology](https://www.histologyguide.org/index.html) or [University of Leeds Histology](http://histology.leeds.ac.uk/) - Histology Guides
 * [Tulane University Pharmacology](https://tmedweb.tulane.edu/pharmwiki/doku.php/start) - Pharmacology Info & Quizzes
 * [Antibiotics Summary](https://imgur.com/rADmmfy) - Antibiotics Summary Image
-* [ECGPedia](https://ecgpedia.org/), [Healio ECG Review](https://www.healio.com/cardiology/learn-the-heart/ecg-review), [ECG Library](https://www.ecglibrary.com/) or [Litfl](https://litfl.com/ecg-library/) - ECG Information
+* [Healio ECG Review](https://www.healio.com/cardiology/learn-the-heart/ecg-review), [ECG Library](https://www.ecglibrary.com/) or [Litfl](https://litfl.com/ecg-library/) - ECG Information
 * [The ECG Course](https://www.youtube.com/playlist?list=PLVRaFpHAzzCgJdurDKLdG464Z2sMAy4oY) - ECG Video Course
 * [ECG Wave-Maven: Self-Assessment Program](https://ecg.bidmc.harvard.edu/maven/mavenmain.asp) - ECG Practice
 * [Hyper Heart](https://library.med.utah.edu/kw/pharm/hyperheart/#animation_container) - Massey University Heart Animation
@@ -802,7 +800,7 @@
 * [Spellcheck](https://spellcheck.xyz) - English Spelling Game
 * [Learn English Online](https://www.learn-english-online.org/), [ESLFast](https://www.eslfast.com/), [AntiMoon](https://www.antimoon.com/), [Oxford Online](https://www.oxfordonlineenglish.com/free-english-lessons) or [Cambridge Online](https://www.cambridgeenglish.org/learning-english/) - English Lessons
 * [EnglishCentral](https://www.englishcentral.com/), [EngVid](https://www.engvid.com/) or [Voscreen](https://voscreen.com/) - English Video Lessons
-* [Frenglish](https://frenglish.ru/) or [English E-Reader](https://english-e-reader.net/) - English Learning Books
+* [⁠ItsAllInEnglish](https://t.me/itsallinenglishs), [Frenglish](https://frenglish.ru/) or [English E-Reader](https://english-e-reader.net/) - English Learning Books
 * [elllo](https://www.elllo.org/) or [Listening Lab](https://www.esl-lab.com/) - English Listening Lessons / Practice
 * [TalkEnglish](https://www.talkenglish.com/) or [Stimuler IELTS Speaking Buddy](https://play.google.com/store/apps/details?id=com.stimuler) - Improve Spoken English
 * [WriteAndImprove](https://writeandimprove.com/) - Improve English Writing
@@ -907,7 +905,7 @@
 
 * 🌐 **[Urdu Resources](https://docs.google.com/document/d/1GRTK_E0YGybMNYZjFToM40sOHNkR1NJXc_dL8HW2Q_0/)** or [UrduNotes](https://urdunotes.com/) - Urdu Learning Resources
 * 🌐 **[Mga Nagmamarunong's Masterlist](https://docs.google.com/spreadsheets/d/1R9P2nt0sQbL8GqEO_hcPjwIZcM-4s0BbJifm-1AJ0Bc/)** - Tagalog Learning Resources
-* 🌐 **[Learn Sanskrit](https://www.learnsanskrit.org/) or [Sanskrit Studio](https://sanskritstudio.wordpress.com/)** - Sanskrit Lessons and Tools
+* 🌐 **[Learn Sanskrit](https://www.learnsanskrit.org/)** or **[Sanskrit Studio](https://sanskritstudio.wordpress.com/)** - Sanskrit Lessons and Tools
 * [South Asian Languages](https://discord.gg/TrdqTDdMba) - South Asian Language Learning
 * [Urdupod101](https://www.urdupod101.com/blog/2021/03/18/urdu-grammar-overview/) - Urdu Grammar Overview / [Video](https://youtu.be/X5J_kXigPWE)
 * [Rekhta Dictionary](https://www.rekhtadictionary.com/) - Urdu Dictionary
@@ -1023,7 +1021,7 @@
 ## ▷ Web Development
 
 * 🌐 **[MDN](https://developer.mozilla.org/)** or [Web Dev Resources](https://joshjoshuap-webdevresources.vercel.app/) - Web Dev Learning Resources
-* ⭐ **[Odin Project](https://www.freecodecamp.org/learn/the-odin-project/)**, [2](https://www.theodinproject.com/) - Programming / Courses / Interactive / [Discord](https://discord.com/invite/fbFCkYabZB)
+* ⭐ **[Odin Project](https://www.theodinproject.com/)**, [2](https://www.freecodecamp.org/learn/the-odin-project/) - Programming / Courses / Interactive / [Discord](https://discord.com/invite/fbFCkYabZB)
 * ⭐ **[FullStackOpen](https://fullstackopen.com/en/)** - Full Stack Course
 * ⭐ **[LandChad](https://landchad.net/)**, [32bit](https://32bit.cafe/) or [learn.sadgrl.online](https://learn.sadgrl.online/) - Site Development Guides
 * ⭐ **[Learn to Code HTML & CSS](https://learn.shayhowe.com/)** - HTML/CSS Course
@@ -1251,13 +1249,13 @@
 * ⭐ **[StudyLion](https://lionbot.org)** - Study Tracker / Productivity Discord Bot / [GitHub](https://github.com/StudyLions/StudyLion)
 * ⭐ **[StudyKit](https://studykit.app/)**, [StuDoc](https://www.studocu.com/) / [Downloader](https://github.com/danieltyukov/studocuhack) / [2](https://dlstudocu.com/), [Gizmo](https://gizmo.ai/), [Knowt](https://knowt.com/), [Quizlet](https://quizlet.com/), [Shmoop](https://www.shmoop.com/) or [SparkNotes](https://www.sparknotes.com/) - Quizzes / Study Material / [Show Hidden](https://greasyfork.org/en/scripts/423872)
 * ⭐ **[Anki](https://apps.ankiweb.net/)** / [Discord](https://discord.gg/jUvBM2sEs4) / [Subreddit](https://www.reddit.com/r/Anki/) / [GitHub](https://github.com/ankidroid/Anki-Android), [StudyLib](https://www.studylib.net/), [RemNote](https://www.remnote.com/), [Flippity](https://www.flippity.net/), [Flashcard Machine](https://www.flashcardmachine.com/), [MemoAnki](https://memoanki.com/), [revisiondojo](https://www.revisiondojo.com/), [Flashka](https://www.flashka.ai/) or [NoteKnight](https://www.noteknight.com) - Flashcard Tools
-* ⭐ **Anki Tools** - [Add-ons](https://ankiweb.net/shared/addons) / [Decks](https://ankiweb.net/shared/decks) / [Resources](https://github.com/tianshanghong/awesome-anki)
+* ⭐ **Anki Tools** - [Add-ons](https://ankiweb.net/shared/addons) / [Decks](https://ankiweb.net/shared/decks) / [Resources](https://docs.ankiweb.net/resources.html), [2](https://github.com/tianshanghong/awesome-anki)
 * ⭐ **[Coursicle](https://www.coursicle.com/)** - Class Schedule Tracker / Android
 * ⭐ **[OpenSyllabus](https://opensyllabus.org/)** - Syllabus Search / Info
 * ⭐ **[Refseek](https://www.refseek.com/)**, [Explorer](https://explorer.globe.engineer/) or [Merlot](https://www.merlot.org/merlot/index.htm) - Academic Search Engines
 * [SciSpace](https://scispace.com/) (No Sign-Up), [Scinito](https://ekb.scinito.ai/ai/chat) or [Elicit](https://elicit.com/) / [GitHub](https://github.com/elicit) - Research Paper Chatbots
 * [Co-STORM](https://storm.genie.stanford.edu/) - Generate Wiki-Style Articles for Anything
-* [mybib](https://www.mybib.com/), [citemaker](https://www.citemaker.com/), [formatically](https://formatically.com/), [zbib](https://zbib.org/), [CitationMachine](https://citationmachine.net/), [CiteFast](https://www.citefast.com) or [Cite This For Me](https://www.citethisforme.com/) - Generate Citations / [Chrome](https://chromewebstore.google.com/detail/cite-this-for-me-web-cite/nnnmhgkokpalnmbeighfomegjfkklkle)
+* [mybib](https://www.mybib.com/), [citemaker](https://www.citemaker.com/), [formatically](https://formatically.com/), [zbib](https://zbib.org/), [CitationMachine](https://citationmachine.net/), [Scribbr](https://www.scribbr.com/citation/generator/), [CiteFast](https://www.citefast.com) or [Cite This For Me](https://www.citethisforme.com/) - Citation Generators / [Chrome](https://chromewebstore.google.com/detail/cite-this-for-me-web-cite/nnnmhgkokpalnmbeighfomegjfkklkle)
 * [Publish or Perish](https://harzing.com/resources/publish-or-perish) - Citation Analyzer
 * [Inciteful](https://inciteful.xyz/) - Find Connected Literature via Citations
 * [PLText](https://pltext.com/), [PlagiarismDetector](https://plagiarismdetector.net/) or [Duplichecker](https://www.duplichecker.com/) - Plagiarism Checkers
@@ -1279,7 +1277,7 @@
 * [ForgetMeNot](https://github.com/tema6120/ForgetMeNot) - Flashcard Mobile App
 * [Get Unstuck](https://socratic.org/) or [Brainly](https://brainly.com/) / [Limit Bypass](https://greasyfork.org/en/scripts/430355) - Homework Help Bots / Communities
 * [Toppr](https://www.toppr.com/), [FreeOnlineTest](https://www.freeonlinetest.in/), [Alloprof](https://www.alloprof.qc.ca/en/) or [AE Old (Discord)](https://discord.gg/VCXGudY) - Test Practice & Homework Help
-* [DoubtNut](https://www.doubtnut.com/) - Exam / Solutions / Help
+* [DoubtNut](https://www.doubtnut.com/) - Exam / Solutions / Help / [Ad-Bypass](https://greasyfork.org/en/scripts/534790)
 * [MammothMemory](https://mammothmemory.net/index.html) - Visual Memory-Based Solutions
 * [StudyStream](https://www.studystream.live/) or [StudyTogether](https://www.studytogether.com/) - Online Study Groups
 * [Space Finder](https://spacefinder.lib.cam.ac.uk/) - UK Study Space Search
@@ -1323,7 +1321,7 @@
 * [YouTube Lengths](https://redd.it/1614jn5), [Fastlane Lengths](https://redd.it/17d1qt3) or [Normal Lane Lengths](https://redd.it/183er1y) - Lecture Lengths / Data
 * [MarksAPP](https://web.getmarks.app/) - Guides / Study Material / [Telegram](https://telegram.me/getmarksapp)
 * [Adv Study Material](https://rentry.co/FMHYBase64#jee-study) - Guides / Study Material
-* [DoubtNut](https://www.doubtnut.com/) - Solutions / Help / [Ad Bypass](https://redd.it/16da7s9)
+* [DoubtNut](https://www.doubtnut.com/) - Solutions / Help / [Ad-Bypass](https://greasyfork.org/en/scripts/534790)
 
 ***
 

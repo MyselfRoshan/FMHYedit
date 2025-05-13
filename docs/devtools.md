@@ -46,13 +46,9 @@
 
 # ► Developer Tools
 
-* 🌐 **[Best-Websites](https://github.com/sdmg15/Best-websites-a-programmer-should-visit)** - Programming Resources
-* 🌐 **[Awesome Sys Admin](https://github.com/awesome-foss/awesome-sysadmin)** - System Admin Resources
-* 🌐 **[Awesome Design Patterns](https://github.com/DovAmir/awesome-design-patterns)** - Design Pattern Resources
-* ↪️ **[Multi-Tool Dev Sites](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_multi_dev_tool_sites)**
 * ↪️ **[Data Visualization Tools](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage/#wiki_data_visualization_tools)**
-* ⭐ **[DevDocs](https://devdocs.io/)** / [GitHub](https://github.com/freeCodeCamp/devdocs) or [ZealDocs](https://zealdocs.org/) - Dev Documentation
 * ⭐ **[DevToys](https://devtoys.app/)** - Dev Multi-Tool App / [GitHub](https://github.com/DevToys-app/DevToys)
+* ⭐ **[DevDocs](https://devdocs.io/)** / [GitHub](https://github.com/freeCodeCamp/devdocs) or [ZealDocs](https://zealdocs.org/) - Dev Documentation
 * ⭐ **[ImHex](https://imhex.werwolv.net/)** / [Web Version](https://web.imhex.werwolv.net/) / [GitHub](https://github.com/WerWolv/ImHex) or [HexEd.it](https://hexed.it/) - Hex Editors
 * [Slidev](https://sli.dev/) - Developer Presentation Slides / [GitHub](https://github.com/slidevjs/slidev)
 * [Devhints](https://devhints.io/) - Developer Cheat Sheets
@@ -87,6 +83,39 @@
 * [WiredJS](https://wiredjs.github.io/designer/) - Wireframe Designer
 * [KeyCheck](https://keycheck.dev/) - Dev Tool Hotkeys
 * [NBviewer](https://nbviewer.org/) - Jupyter Notebook Sharing
+
+***
+
+## ▷ Dev Tool Indexes
+
+* ⭐ **[Free for Developers](https://free-for.dev/)** / [GitHub](https://github.com/ripienaar/free-for-dev)
+* [⁠Useful Tools](https://trolologuy.github.io/useful-tools/) / [GitHub](https://github.com/trolologuy/useful-tools)
+* [Best-Websites](https://github.com/sdmg15/Best-websites-a-programmer-should-visit)
+* [⁠Tiny Helpers](https://tiny-helpers.dev/) / [GitHub](https://github.com/stefanjudis/tiny-helpers)
+* [Tiny Tools](https://tinytools.directory/)
+* [Free For Life](https://free.hrsn.dev/) / [GitHub](https://github.com/wdhdev/free-for-life/)
+* [WebdevHome](https://webdevhome.github.io/)
+* [Free Developer Stuff](https://freestuff.dev/)
+* [Addy](https://toolkit.addy.codes/)
+* [Prototypr](https://prototypr.io/toolbox/page/1)
+* [Awesome Sys Admin](https://github.com/awesome-foss/awesome-sysadmin) - System Admin Resources
+* [Awesome Design Patterns](https://github.com/DovAmir/awesome-design-patterns) - Design Pattern Resources
+
+***
+
+## ▷ Online Toolkits
+
+* ⭐ **[AppDevTools](https://appdevtools.com/)** 
+* [IT Tools](https://it-tools.tech/)
+* [Web Toolbox](https://web-toolbox.dev/en)
+* [devina](https://devina.io/)
+* [wangchujiang](https://wangchujiang.com/tools/)
+* [SmallDev.tools](https://smalldev.tools/)
+* [Coders Tool](https://www.coderstool.com/)
+* [Utilities and Tools](https://utilities-online.info/)
+* [Clean CSS](https://www.cleancss.com/)
+* [FreeFormatter.com](https://freeformatter.com/)
+* [Online String Tools](https://onlinestringtools.com/)
 
 ***
 
@@ -746,7 +775,7 @@
 * [Website Planet Tools](https://www.websiteplanet.com/webtools/), [Browserling Tools](https://www.browserling.com/tools/) or [WebCode](https://webcode.tools/) - Site Development Tools
 * [shadcn-ui](https://ui.shadcn.com/) or [shadcn-svelte](https://shadcn-svelte.com) - Web Component Libraries
 * [Web Developer](https://chromewebstore.google.com/detail/web-developer/bfbameneiokkgbdmiekhjnmfkcnldhhm) - Web Developer Toolbar Extension
-* [GoatCounter](https://www.goatcounter.com/) or [Umami](https://umami.is/) - Site Analytics
+* [GoatCounter](https://www.goatcounter.com/), [⁠Rybbit](https://github.com/rybbit-io/rybbit) or [Umami](https://umami.is/) - Site Analytics
 * [ElasticSearch](https://www.elastic.co/products/elasticsearch) - Search & Analytics Engine / [GitHub](https://github.com/elastic/elasticsearch)
 * [Tabler](https://tabler.io/) - Site Admin Dashboard
 * [Octopus](https://octopus.do/sitemap) - Site Planning Tool
@@ -771,6 +800,7 @@
 * [Cloudflare Radar](https://radar.cloudflare.com/) - Cloudflare Insights
 * [Check for Cloudflare](https://checkforcloudflare.selesti.com/) - Check Sites for Cloudflare
 * [Caddy](https://caddyserver.com/) - Web Server
+* [Directory Lister](https://directorylister.com/) - Web-based Directory Listing
 * [BawkBox](https://bawkbox.com/) - Website Widgets
 * [The SSO Wall of Shame](https://sso.tax/) - Vendors without Built-in SSO
 * [Remarkbox](https://www.remarkbox.com/) or [HTML Comment Box](https://www.htmlcommentbox.com/) - Site Comment Systems
@@ -885,7 +915,6 @@
 * [WebDesigner](https://webdesigner.withgoogle.com/), [T3](https://github.com/tooll3/t3), [Theatre.js](https://www.theatrejs.com/) / [GitHub](https://github.com/theatre-js/theatre), [GSAP](https://gsap.com/), [Stylie](https://jeremyckahn.github.io/stylie/), [RenderForest](https://www.renderforest.com), [Mantra](https://jeremyckahn.github.io/mantra/) or [Lottielab](https://www.lottielab.com/) - Create Motion Graphics
 * [useAnimations](https://useanimations.com/index.html) or [LordIcon](https://lordicon.com/) - Animated Icons
 * [NakerApp](https://app.naker.io/back/) - Interactive Background Maker
-* [Error404](https://error404.fun/) - Free 404 Pages
 * [HTTP Cats](https://http.cat/) - Put Cat Pictures in Your Status Codes
 
 ***
@@ -1138,7 +1167,7 @@
 
 ***
 
-# ► Markdown Tools
+# ► Markup Tools
 
 * ⭐ **[Markdown Guide](https://www.markdownguide.org/)** - Guide for Markdown (.md)
 * ⭐ **[generatedata.com](https://generatedata.com/)** - Generate Test Data in Markup Formats

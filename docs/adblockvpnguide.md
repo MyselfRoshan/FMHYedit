@@ -30,7 +30,8 @@
 
 * ⭐ **[LegitimateURLShortener](https://github.com/DandelionSprout/adfilt/blob/master/LegitimateURLShortener.txt)** - Query Parameter Cleaning Rules
 * [yokoffing's Recommended Filters](https://github.com/yokoffing/filterlists) - Blocklist Collection
-* [FilterLists](https://filterlists.com/) - Filter and host lists directory
+* [Hagezi Blocklists](https://github.com/hagezi/dns-blocklists) - Blocklist Collection
+* [FilterLists](https://filterlists.com/) - Filter / Host List Directory
 * [FMHY Filterlist](https://github.com/fmhy/FMHYFilterlist) - Unsafe Sites Filter
 
 ***
@@ -49,7 +50,7 @@
 * ⭐ **[AdGuard Home](https://adguard.com/en/adguard-home/overview.html)** - Self-Hosted DNS Adblocking / [Balena-Adguard](https://github.com/klutchell/balena-adguard) / [GitHub](https://github.com/AdguardTeam/AdGuardHome) / [X](https://x.com/adguard) / [Telegram](https://t.me/adguarden) / [Subreddit](https://reddit.com/r/Adguard)
 * ⭐ **[Mullvad DNS](https://mullvad.net/en/help/dns-over-https-and-dns-over-tls/)** - DNS Adblocking / Filtering / [Extension](https://mullvad.net/en/download/browser/extension) / [GitHub](https://github.com/mullvad)
 * ⭐ **[YogaDNS](https://yogadns.com/)** - Custom DNS Client for Windows
-* [⁠DNS Speed Test](https://dnsspeedtest.online/) / [GitHub](https://github.com/BrainicHQ/DoHSpeedTest)
+* [DNS Speed Test](https://dnsspeedtest.online/) / [GitHub](https://github.com/BrainicHQ/DoHSpeedTest)
 * [BlahDNS](https://blahdns.com/) - DNS Adblocking / [GitHub](https://github.com/zoonderkins/blahdns)
 * [AlternateDNS](https://alternate-dns.com/index.php) - DNS Adblocking
 * [LibreDNS](https://libredns.gr/) - DNS Adblocking / [GitLab](https://gitlab.com/libreops/libredns)
@@ -61,7 +62,6 @@
 * [TBlock](https://tblock.me/) - DNS Adblocking Client / [CodeBerg](https://codeberg.org/tblock/tblock)
 * [Diversion](https://diversion.ch/) - Asuswrt-Merlin Router Adblock Manager
 * [Phishing Army](https://phishing.army/) - DNS Phishing Blocklist / [X](https://x.com/PhishingArmy)
-* [DNS Party](https://encrypted-dns.party/) - Encrypted DNS Profiles for Apple Devices
 * [Technitium](https://technitium.com/dns) - Self-Hosted DNS Server / [Subreddit](https://reddit.com/r/technitium/) / [GitHub](https://github.com/TechnitiumSoftware/DnsServer)
 * [DNS Perf](https://dnsperf.com/dns-speed-benchmark) or [NameBench](https://code.google.com/archive/p/namebench/) - DNS Speed Tests
 
@@ -176,7 +176,7 @@
 * ⭐ **[DNSveil](https://msasanmh.github.io/DNSveil/)** - DNS Client / [Guide](https://rentry.org/DNSveil) / [GitHub](https://github.com/msasanmh/DNSveil)
 * [I2P](https://geti2p.net/en/) - Encrypted Private Network Layer / [Guide](https://rentry.co/CBGI2P) / [GitLab](https://i2pgit.org/)
 * [XrayUIGroup](https://github.com/MHSanaei/3x-ui) - DIY Privacy Network / [Telegram](https://t.me/XrayUI)
-* [⁠Simplewall](https://github.com/henrypp/simplewall) - Firewall
+* [Simplewall](https://github.com/henrypp/simplewall) - Firewall
 * [Fort](https://github.com/tnodir/fort) - Firewall
 * [WFC](https://www.binisoft.org/wfc.php) - Firewall
 
@@ -382,8 +382,8 @@
 * [Proxifier](https://www.proxifier.com/) - Add Proxy Functionality to Apps / [Keys](https://rentry.co/FMHYBase64#proxifier-keys)
 * [wireproxy](https://github.com/whyvl/wireproxy) - WireGuard as Proxy
 * [Hiddify](https://hiddify.com/) - Auto-Proxy Client / [Telegram](https://t.me/hiddify) / [GitHub](https://github.com/hiddify)
-* [Nginx Proxy Manager](https://nginxproxymanager.com) - Self-Hosted Proxy Server / [Subreddit](https://reddit.com/r/nginxproxymanager) / [GitHub](https://github.com/NginxProxyManager/nginx-proxy-manager)
 * [Ultraviolet](https://docs.titaniumnetwork.org/proxies/ultraviolet) / [GitHub](https://github.com/titaniumnetwork-dev/Ultraviolet) or [Nebula](https://github.com/NebulaServices/Nebula) - Self-Hosted Proxy Sites
+* [Nginx Proxy Manager](https://nginxproxymanager.com) - Self-Hosted Proxy Server / [Subreddit](https://reddit.com/r/nginxproxymanager) / [GitHub](https://github.com/NginxProxyManager/nginx-proxy-manager)
 * [1337x Proxy](https://redd.it/tz7nyx) - 1337x Proxy Guide / [Example](https://pastebin.com/3n5K0QrP)
 * [Titanium Network](https://titaniumnetwork.org/services/) - Proxy Developer / [Instances](https://discord.gg/unblock) / [GitHub](https://github.com/titaniumnetwork-dev)
 

@@ -40,7 +40,7 @@
 * ⭐ **[Catbox](https://catbox.moe/)** - 200MB / Forever / Allows Hotlinking
 * ⭐ **[Gofile](https://gofile.io/)** - 100GB Monthly / 10 Days
 * ⭐ **[Send.now](https://send.now/)** - Unlimited / 30 Days
-* [Files.vc](https://files.vc/) - Unlimited / 10GB / Forever
+* [Files.vc](https://files.vc/) - Unlimited / 10GB / Forever / [Discord](https://discord.com/invite/ArMj8q8psR)
 * [VOE](https://voe.sx/) - Unlimited / 60 Days / 720p / Account Required
 * [MixDrop](https://mixdrop.ag/) - Unlimited / 60 Days / 720p / Account Required
 * [FEX.NET](https://fex.net/) - 100GB / 10GB Guest / 7 Days
@@ -70,9 +70,10 @@
 * [ShareX](https://getsharex.com/)
 * [Screen Recorder](https://github.com/akon47/ScreenRecorder)
 * [vokoscreenNG](https://github.com/vkohaupt/vokoscreenNG)
+* [Cap](https://cap.so/) / [GitHub](https://github.com/CapSoftware/Cap)
 * [Shar.ec](https://shar.ec/) - Online
 * [ScreenREC](https://screen-rec.vercel.app/) - Online
-* [⁠ScreenRecorder.me](https://www.screenrecorder.me/) - Online
+* [ScreenRecorder.me](https://www.screenrecorder.me/) - Online
 * [KazCap](https://recorder.kuan.sh/) - Online
 * [RecordScreen](https://recordscreen.io/) - Online
 * [Google Screen Recorder](https://toolbox.googleapps.com/apps/screen_recorder/) - Online
@@ -92,7 +93,6 @@
 * [MKV Muxing Batch GUI](https://github.com/yaser01/mkv-muxing-batch-gui) - Mux Videos
 * [staxrip](https://github.com/staxrip/staxrip/) - Video Encoding / Contact Sheet + Thumbnails Creator
 * [IFME](https://github.com/Anime4000/IFME) - Video Encoding
-* [Voukoder](https://www.voukoder.org/) - Video Encoding Plugin
 * [XMedia Recode](https://www.xmedia-recode.de/en/) - Video Conversion
 * [FastFlix](https://fastflix.org/) - Video Conversion / [GitHub](https://github.com/cdgriffith/FastFlix)
 * [NEAV1E](https://github.com/Alkl58/NotEnoughAV1Encodes) or [Av1an](https://github.com/master-of-zen/Av1an) - AV1 Encoding
@@ -370,7 +370,7 @@
 * [Musvkrobot](https://t.me/musvkrobot) - Multi-Site / Telegram Bot
 * [myfaveTT](https://myfavett.com/), [SnapTik](https://snaptik.app/) or [tiktok-to-ytdlp](https://github.com/Dinoosauro/tiktok-to-ytdlp) - TikTok
 * [Threads Downloader](https://threadsdownloader.com/) - Threads
-* [PinCase](https://pincase.xyz/) - Pinterest / Online
+* [Piner](https://piner.io/) - Pinterest / Online
 * [hls-downloader](https://github.com/puemos/hls-downloader), [hls extension](https://webextension.org/listing/hls-downloader.html) or [hlsloader](https://www.hlsloader.com/) - HLS Downloaders
 * [GetWVKeys](https://getwvkeys.cc/) - Send Widevine Requests / [GitHub](https://github.com/GetWVKeys/)
 

@@ -24,7 +24,7 @@ For mobile **[AdGuard Premium](https://fmhy.net/android-iosguide#android-adblock
 
 > Which web browser should I use?
 
-We recommend **[Firefox](https://www.mozilla.org/en-US/firefox/new/)**, but you can also try **[Privacy-Focused Browsers](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/adblock-vpn-privacy/#wiki_.25B7_browser_privacy)**, or **[Brave](https://brave.com/)** if you prefer Chromium.
+We recommend **[Firefox](https://www.mozilla.org/en-US/firefox/new/)**, but you can also try **[Privacy-Focused Browsers](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/adblock-vpn-privacy/#wiki_.25B7_browser_privacy)** or **[Brave](https://brave.com/)** if you prefer Chromium.
 
 For Android we recommend **[Firefox](https://www.mozilla.org/en-US/firefox/browsers/mobile/android/)**, **[Brave](https://brave.com/)** or **[Cromite](https://github.com/uazo/cromite)**.
 
@@ -36,7 +36,7 @@ For iOS **[Orion](https://kagi.com/orion/)**, [Brave](https://brave.com/) or Saf
 
 ### Movies / Shows
 
-* **Streaming: [Hexa](https://hexa.watch/) / [XPrime](https://xprime.tv/)**
+* **Streaming: [movie-web](https://erynith.github.io/movie-web-instances/) / [Cineby](https://www.cineby.app/) / [Hexa](https://hexa.watch/)**
 * **Torrenting: [1337x](https://1337x.to/movie-library/1/)**
 * **Sports Streaming: [Streamed](https://streamed.su/) / [Sportsurge](https://v2.sportsurge.net/home4/)**
 * **Drama Streaming: [KissAsian](https://kissasian.video/)**
@@ -56,7 +56,7 @@ For iOS **[Orion](https://kagi.com/orion/)**, [Brave](https://brave.com/) or Saf
 ### Music
 
 * **Streaming: [SpotX](https://github.com/SpotX-Official/SpotX) / [Custom YouTube Music](https://th-ch.github.io/youtube-music/)**
-* **Downloading: [lucida](https://lucida.to/) / [Soulseek](https://slsknet.org/)**
+* **Downloading: [DoubleDouble](https://doubledouble.top/) / [Soulseek](https://slsknet.org/)**
 * **Mobile: [ReVanced Manager](https://revanced.app/) (Android) / [OuterTune](https://github.com/OuterTune/OuterTune) (Android) / [EeveeSpotify](https://github.com/whoeevee/EeveeSpotify) (iOS)**
 * **Track / Discover: [Last.fm](https://www.last.fm/home) / [RateYourMusic](https://rateyourmusic.com/)**
 
@@ -73,7 +73,7 @@ For iOS **[Orion](https://kagi.com/orion/)**, [Brave](https://brave.com/) or Saf
 
 ### Reading
 
-* **Downloading: [Anna's Archive](https://annas-archive.org/) / [Library Genesis](https://libgen.rs/) / [Z-Library](https://z-lib.gd/) / [Mobilism](https://forum.mobilism.org)**
+* **Downloading: [Anna's Archive](https://annas-archive.org/) / [Library Genesis](https://libgen.rs/) / [Z-Library](https://z-lib.gd/) / [Bookracy](https://bookracy.ru/)**
 * **Audiobooks: [AudiobookBay](https://audiobookbay.lu/) / [Mobilism Audiobooks](https://forum.mobilism.org/viewforum.php?f=124) / [Tokybook](https://tokybook.com/)**
 * **Manga: [ComicK](https://comick.io/) / [Weeb Central](https://weebcentral.com/) / [MangaDex](https://mangadex.org/)**
 * **Comics: [ReadComicsOnline](https://readcomiconline.li/) / [GetComics](https://getcomics.org/)**

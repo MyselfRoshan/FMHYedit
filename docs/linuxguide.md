@@ -7,7 +7,7 @@
 # ► Linux Guides
 
 * ↪️ **[Bash / CLI Cheat Sheets](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_cli_cheat_sheets)**
-* ⭐ **[ArchWiki](https://wiki.archlinux.org/)** - Arch Linux Guide / [Manuals](https://man.archlinux.org/) / [TUI](https://codeberg.org/theooo/mantra.py)
+* ⭐ **[Arch Wiki](https://wiki.archlinux.org/)** - Arch Linux Guide / [Manuals](https://man.archlinux.org/) / [TUI](https://codeberg.org/theooo/mantra.py)
 * [GameShell](https://github.com/phyver/GameShell) - Unix Shell Learning Game
 * [Gentoo Wiki](https://wiki.gentoo.org/wiki/Main_Page) - Gentoo Wikis / Guides
 * [Debian Wiki](https://wiki.debian.org/) - Debian Wiki / Guides
@@ -96,12 +96,12 @@
 * [innoextract](https://constexpr.org/innoextract/) - Windows Installer Unpacker / [GitHub](https://github.com/dscharrer/innoextract)
 * [nativefier_tauri](https://github.com/hamza72x/web2app) - Turn Webpages into Desktop Apps
 * [Autokey](https://autokey.github.io/index.html) - Linux Automation Utility / [GitHub](https://github.com/autokey/autokey)
-* [⁠ProtonTricks](https://github.com/Matoking/protontricks) - Run Winetricks Commands for Steam Play / Proton Games
+* [ProtonTricks](https://github.com/Matoking/protontricks) - Run Winetricks Commands for Steam Play / Proton Games
 * [Touchégg](https://github.com/JoseExposito/touchegg) - Multi-Touch Gesture Recognizer
 * [Material Shell](https://material-shell.com/) or [Forge](https://github.com/forge-ext/forge) - GNOME Tiling Extension
 * [Polonium](https://zeroxoneafour.github.io/polonium/) - KDE6 Tiling Manager Extension / [GitHub](https://github.com/zeroxoneafour/polonium)
 * [Ghostwriter](https://ghostwriter.kde.org/) or [Remarkable](https://remarkableapp.github.io/) - Markdown Editor
-* [Gedit](https://wiki.gnome.org/Apps/Gedit), [Geany](https://www.geany.org/), [Leafpad](http://tarot.freeshell.org/leafpad/), [taskbook](https://github.com/klaudiosinani/taskbook), [Notepadqq](https://github.com/notepadqq/notepadqq), [Featherpad](https://github.com/tsujan/FeatherPad) or [nb](https://xwmx.github.io/nb) / [GitHub](https://github.com/xwmx/nb) - Text Editor / Note Apps
+* [Gedit](https://wiki.gnome.org/Apps/Gedit), [Geany](https://www.geany.org/), [Kate Editor](https://kate-editor.org/), [taskbook](https://github.com/klaudiosinani/taskbook), [Notepadqq](https://github.com/notepadqq/notepadqq), [Featherpad](https://github.com/tsujan/FeatherPad) or [nb](https://xwmx.github.io/nb) / [GitHub](https://github.com/xwmx/nb) - Text Editor / Note Apps
 * [TextPieces](https://gitlab.com/liferooter/textpieces) - Quick Text Transformations
 * [Durdraw](https://durdraw.org/) - ASCII Editor
 * [ly](https://github.com/fairyglade/ly) - Display Manager with Console UI
@@ -318,7 +318,6 @@
 * [Gamemode](https://github.com/FeralInteractive/gamemode) - Linux System Optimizer
 * [LibreGaming](https://github.com/Ahmed-Al-Balochi/LibreGaming) - Linux Game Package Downloader
 * [PortMaster](https://portmaster.games/) - Port Games to Linux Handheld Devices / [Discord](https://discord.gg/JxYBp9HTAY)
-* [Anime Game Launcher](https://github.com/an-anime-team/an-anime-game-launcher) - Genshin Impact Launcher / [Discord](https://discord.gg/ck37X6UWBp)
 * [Gameboy.live](https://github.com/HFO4/gameboy.live) - Terminal Game Boy Emulator
 * [QuickPassthrough](https://github.com/HikariKnight/quickpassthrough) - Simplified Qemu GPU Passthrough
 
@@ -497,7 +496,7 @@
 * ↪️ **[Linux Themes](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_linux_themes)** - Themes for Linux
 * ⭐ **[Elkowar's Wacky Widgets](https://elkowar.github.io/eww)** or **[Aylur's GTK Shell](https://github.com/Aylur/ags)** - Widgeting Systems
 * [wpgtk](https://deviantfero.github.io/wpgtk) - Fully Customizable Unix Color Schemer
-* [⁠Hellwal](https://github.com/danihek/hellwal) - Color Palette Generator for Ricing
+* [Hellwal](https://github.com/danihek/hellwal) - Color Palette Generator for Ricing
 * [Kvantum](https://github.com/tsujan/Kvantum) - Linux QT / KDE Theme Engine
 * [Polybar (X11)](https://github.com/polybar/polybar) / [Themes](https://github.com/adi1090x/polybar-themes), [Iron Bar](https://github.com/JakeStanger/ironbar) (Wayland) or [Waybar](https://github.com/Alexays/Waybar) (Wayland) - Customizable Status Bars
 * [MacBuntu Transformation Pack](https://www.noobslab.com/2018/08/macbuntu-1804-transformation-pack-ready.html), [2](https://www.noobslab.com/2017/06/macbuntu-transformation-pack-ready-for.html) - Mac Theme
@@ -607,7 +606,7 @@
 * [Shiru](https://github.com/RockinChaos/Shiru) - Anime Torrent Streaming
 * [Yattee](https://github.com/yattee/yattee) - YouTube Player
 * [REAL Video Enhancer](https://github.com/TNTwise/REAL-Video-Enhancer) - Video Upscaling
-* [Cap](https://cap.so/), [Kap](https://getkap.co) or [ScreenTimeLapse](https://github.com/wkaisertexas/ScreenTimeLapse) - Screen Recorders
+* [Cap](https://cap.so/) / [GitHub](https://github.com/CapSoftware/Cap), [Kap](https://getkap.co) or [ScreenTimeLapse](https://github.com/wkaisertexas/ScreenTimeLapse) - Screen Recorders
 
 ***
 
@@ -669,6 +668,7 @@
 * [macOS Privacy Guide](https://github.com/drduh/macOS-Security-and-Privacy-Guide) - Mac Privacy & Security Guides
 * [Gas Mask](https://github.com/2ndalpha/gasmask) - Block Ads via Host Files
 * [1Blocker](https://1blocker.com/) - DNS Adblocker
+* [DNS Party](https://encrypted-dns.party/) - Encrypted DNS Profiles
 * [AdGuard Safari](https://adguard.com/en/adguard-safari/overview.html) - AdGuard for Safari
 * [wBlock](https://github.com/0xCUB3/wBlock) or [Stay](https://apps.apple.com/app/stay-for-safari/id1591620171) - Safari Adblockers
 * [Lockdown Privacy](https://lockdownprivacy.com/) - Block Trackers / Ads

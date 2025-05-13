@@ -32,10 +32,10 @@
 
 * ⭐ **[YouTube Music](https://music.youtube.com/)**, [Hyperpipe](https://hyperpipe.surge.sh), [Nonoki](https://nonoki.com/music/), [ytify](https://ytify.netlify.app/) or [Spotify One](https://spotfy.one/) - YouTube Music WebUIs
 * ⭐ **YouTube Music Tools** - [Enhancements](https://themesong.app/), [2](https://github.com/Sv443/BetterYTM) / [Library Delete](https://github.com/apastel/ytmusic-deleter) / [Upload Delete](https://rentry.co/tv4uo) / [Spotify Playlist Import](https://github.com/sigma67/spotify_to_ytmusic), [2](https://github.com/linsomniac/spotify_to_ytmusic), [3](https://www.tunemymusic.com/) / [Better Lyrics](https://better-lyrics.boidu.dev/) / [Discord](https://discord.gg/UsHE3d5fWF) / [GitHub](https://github.com/boidushya/better-lyrics)
+* ⭐ **[DAB Music Player](https://dab.yeet.su/)** - Browser Music / Uses Qobuz / Lossless
 * ⭐ **[Reddit Music Player](https://reddit.musicplayer.io/)** - Subreddit Music Player
 * ⭐ **[SoundCloud](https://soundcloud.com/)** - User Made Songs
 * [Spotify Web Client](https://open.spotify.com/) - Browser Music
-* [DAB Music Player](https://dab.yeet.su/) - Browser Music / Uses Qobuz
 * [Groovesharks](https://groovesharks.org/) - Browser Music
 * [Last.fm](https://www.last.fm/) - Browser Music / [Tools](https://fmhy.net/audiopiracyguide#last-fm-tools)
 * [FreeListenOnline](https://freelistenonline.com/) - Browser Music
@@ -170,12 +170,12 @@
 
 * ⭐ **[RadioParadise](https://radioparadise.com/)** - Online Radio / Listener Supported
 * ⭐ **[SomaFM](https://somafm.com/)** - Online Radio / [Discovery Guide](https://rentry.co/musicdiscovery/#somafm)
-* ⭐ **[NTS Radio](https://www.nts.live/)**- DJ Radio Shows / [SoundCloud](https://soundcloud.com/user-643553014) / [Discovery Guide](https://rentry.co/musicdiscovery/#nts-radio)
+* ⭐ **[NTS Radio](https://www.nts.live/)** - DJ Radio Shows / [SoundCloud](https://soundcloud.com/user-643553014) / [Discovery Guide](https://rentry.co/musicdiscovery/#nts-radio)
 * [0nRadio](https://www.0nradio.com/) - Online Radio Directory
 * [1a Radio](https://www.1aradio.com/) - Online Radio Directory
 * [Radiodeck](https://www.radiodeck.com/) - Online Radio Player / Directory
 * [Quasar Radio](https://kuasark.com/en/) - Online Radio Directory
-* [AccuRadio](https://www.accuradio.com/) - Online Radio 
+* [AccuRadio](https://www.accuradio.com/) - Online Radio
 * [You Radio](https://play.you.radio/) - Online Radio
 * [Audiophile](https://audiophile.fm/) - Online Radio
 * [ShoutCast](https://directory.shoutcast.com/) - User-Stations
@@ -185,7 +185,7 @@
 * [JetSetRadio](https://jetsetradio.live/) / [2](https://jetsetradiofuture.live/) - Game Soundtracks
 * [deepcut.fm](https://deepcut.live/) - Deep-Cuts
 * [Tilderadio](https://tilderadio.org/) - Community Radio
-* [UpBeat](https://upbeatradio.net/)  - Community Radio / [Discord](https://upbeat.pw/discord) 
+* [UpBeat](https://upbeatradio.net/) - Community Radio / [Discord](https://upbeat.pw/discord)
 * [Radio.dubbeh](https://radio.dubbeh.net/) - Independent Internet Radio
 * [Radios.yt](https://radios.yt/) - YT Radio Aggregator
 * [radio.uwu](https://radio.uwu.network/) - Subculture Radio
@@ -357,7 +357,7 @@
 
 ## ▷ Audio Ripping Sites
 
-* ⭐ **[lucida](https://lucida.to/)**, [2](https://lucida.su/), [3](https://doubledouble.top/) - Multi-Site / 320kb / MP3 / FLAC / [Auto-Retry](https://greasyfork.org/en/scripts/514514) / [Telegram](https://t.me/lucidahasmusic) / [Discord](https://discord.gg/5EEexMqVuE)
+* ⭐ **[DoubleDouble](https://doubledouble.top/)** - Multi-Site / 320kb / MP3 / FLAC / [Auto-Retry](https://greasyfork.org/en/scripts/514514) / [Telegram](https://t.me/lucidahasmusic) / [Discord](https://discord.gg/5EEexMqVuE)
 * ⭐ **[cobalt](https://cobalt.tools/)** - YouTube / SoundCloud / 320kb / MP3 / Ad-Free / [Instances](https://instances.cobalt.best/) / [Playlist Support](https://playlist.kwiatekmiki.pl/), [2](https://playlist.kwiatekmiki.com/)
 * ⭐ **[squid.wtf](https://squid.wtf/)** - Qobuz / Khinsider / FLAC / [GitHub](https://github.com/QobuzDL/Qobuz-DL)
 * [YTiz](https://ytiz.xyz/) - YouTube / SoundCloud / Bandcamp / 128kb / AAC / [GitHub](https://github.com/tizerk/ytiz)
@@ -525,6 +525,7 @@
 * [Dez Flight Underground](https://dezflight-underground.com/) - Underground Hip Hop
 * [The Noise-Arch Archive](https://archive.org/details/noise-arch) - Underground Cassette Tapes
 * [Y'EDITS](https://yedits.net/) - Ye Remixes / [Discord](https://discord.com/invite/yedits)
+* [Tom Lehrer Songs](https://tomlehrersongs.com/) - All Tom Lehrer Songs / Public Domain
 * [MusicRepublic](https://music-republic-world-traditional.blogspot.com/) - World / MP3 / FLAC
 * [KPopFLAC](https://www.kpopflac.xyz/) - K-Pop / FLAC
 * [KPopMusicDownload](https://kpopdownloadscmm.blogspot.com/) - K-Pop / MP3
@@ -875,7 +876,7 @@
 * ⭐ **[OpenMPT](https://openmpt.org/)**, [Schism Tracker](https://schismtracker.org/) or [MilkyTracker](https://milkytracker.org/) - Music Trackers
 * [Zrythm](https://www.zrythm.org/en/index.html) - Digital Audio Workstation
 * [LMMS](https://lmms.io/) - Digital Audio Workstation / [Discord](https://discord.com/invite/PruNxpG)
-* [⁠Waveform](https://www.tracktion.com/products/waveform-free) - Digital Audio Workstation
+* [Waveform](https://www.tracktion.com/products/waveform-free) - Digital Audio Workstation
 * [Ossia](https://ossia.io/) - Intermedia Sequencer
 * [Mixxx](https://mixxx.org/), [VirtualDJ](https://www.virtualdj.com/) or [Serato](https://serato.com/) - DJ Software
 * [plugdata](https://plugdata.org/) - Visual Audio Editor / [Discord](https://discord.com/invite/eT2RxdF9Nq)
@@ -985,6 +986,7 @@
 * [GDC](https://sonniss.com/gameaudiogdc)
 * [Citizen DJ](https://citizen-dj.labs.loc.gov/)
 * [SoundGator](https://www.soundgator.com/)
+* [Voicy](https://www.voicy.network/)
 * [FindSounds](https://www.findsounds.com/)
 * [PacDV](https://www.pacdv.com/sounds/index.html)
 * [Free Loops](https://free-loops.com/)

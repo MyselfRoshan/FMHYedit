@@ -55,7 +55,7 @@
 
 * ⭐ **[Reader View](https://webextension.org/listing/chrome-reader-view.html)**, [2](https://mybrowseraddon.com/reader-view.html)
 
-[Annas Archive Reader](https://annas-archive.org/view), [Flow](https://www.flowoss.com/), [Online Cloud File Viewer](https://www.fviewer.com/), [Readwok](https://readwok.com/), [ePub Reader Online](https://www.ofoct.com/viewer/epub-reader-online.html), [Ebook Reader](https://reader.ttsu.app/manage), [epub.js](https://github.com/johnfactotum/foliate-js), [minimalreader](https://www.minimalreader.xyz/)
+[Annas Archive Reader](https://annas-archive.org/view), [Flow](https://www.flowoss.com/), [Online Cloud File Viewer](https://www.fviewer.com/), [Readwok](https://readwok.com/), [ePub Reader Online](https://www.ofoct.com/viewer/epub-reader-online.html), [Ebook Reader](https://reader.ttsu.app/manage), [epub.js](https://github.com/johnfactotum/foliate-js), [minimalreader](https://www.minimalreader.xyz/), [⁠Litera Reader](https://litera-reader.com/)
 
 ***
 
@@ -125,13 +125,14 @@
 * ⭐ **[Ben Dodson](https://bendodson.com/projects/itunes-artwork-finder/)**, [2](https://bendodson.com/projects/apple-tv-movies-artwork-finder/)
 * [BigBoxCollection](https://bigboxcollection.com/) - 3D Game Boxes
 
-[The Poster Database](https://theposterdb.com/), [Cover Century](https://www.covercentury.com/), [covrik](https://www.covrik.com/), [DVD Covers](https://www.dvd-covers.org/), [Gaming Alexandria](https://www.gamingalexandria.com/), [The Poster Collector](https://postercollector.co.uk/), [Movie Posters Gallery](https://www.moviepostersgallery.com/), [Film on Paper](https://www.filmonpaper.com/blog/), [GameTDB](https://www.gametdb.com/), [JoBlo](https://www.joblo.com/movie-posters/), [/r/MoviePosterPorn](https://www.reddit.com/r/MoviePosterPorn/), [IMP Awards](http://www.impawards.com/), [Fanart](https://fanart.tv/), [The Cover Project](https://www.thecoverproject.net/), [covercity](https://www.covercity.net/), [libretro](https://thumbnails.libretro.com/)
+[The Poster Database](https://theposterdb.com/), [Cover Century](https://www.covercentury.com/), [covrik](https://www.covrik.com/), [DVD Covers](https://www.dvd-covers.org/), [Gaming Alexandria](https://www.gamingalexandria.com/), [The Poster Collector](https://postercollector.co.uk/), [Movie Posters Gallery](https://www.moviepostersgallery.com/), [Film on Paper](https://www.filmonpaper.com/blog/), [GameTDB](https://www.gametdb.com/), [JoBlo](https://www.joblo.com/movie-posters/), [/r/MoviePosterPorn](https://www.reddit.com/r/MoviePosterPorn/), [IMP Awards](http://www.impawards.com/), [Fanart](https://fanart.tv/), [The Cover Project](https://www.thecoverproject.net/), [covercity](https://www.covercity.net/), [libretro](https://thumbnails.libretro.com/), [Mediux](https://mediux.pro/)
+
 
 ### Album Art
 
 * ⭐ **[Cover Search Engine](https://covers.musichoarders.xyz)**
 
-[Album Art Downloader](https://sourceforge.net/projects/album-art/), [kunst](https://github.com/sdushantha/kunst), [Fetcher](https://github.com/bunnykek/Fetcher), [Classic Rock Covers](https://www.classic-rock-covers.com/), [Apple Artwork](https://artwork.thekvt.eu.org/), [albumart.digital](https://albumart.digital/), [spotifycover](https://www.spotifycover.art/), [2](https://spotify-art.vercel.app/)
+[Album Art Downloader](https://sourceforge.net/projects/album-art/), [kunst](https://github.com/sdushantha/kunst), [Fetcher](https://github.com/bunnykek/Fetcher), [Classic Rock Covers](https://www.classic-rock-covers.com/), [Apple Artwork](https://artwork.thekvt.eu.org/), [albumart.digital](https://albumart.digital/), [spotifycover](https://www.spotifycover.art/), [2](https://spotify-art.vercel.app/), [Mediux](https://mediux.pro/)
 
 ***
 
@@ -142,7 +143,7 @@
 * 🌐 **[Awesome TailwindCSS](https://github.com/aniftyco/awesome-tailwindcss)** - Tailwind CSS Resources
 * ⭐ **[Tailwind CSS](https://tailwindcss.com/)** or [UnoCSS](https://unocss.dev/) - CSS Framework
 * [Tailwind Toolbox](https://tailwindtoolbox.com/) - Tailwind Starter Templates & Components
-* [Tailsc](https://tailsc.com/), [daisyUI](https://daisyui.com/), [Float UI](https://floatui.com/) / [GitHub](https://github.com/MarsX-dev/floatui), [Aceternity UI](https://ui.aceternity.com/) or [Tailspark](https://tailspark.co/) - Tailwind CSS Components
+* [daisyUI](https://daisyui.com/), [Float UI](https://floatui.com/) / [GitHub](https://github.com/MarsX-dev/floatui), [Aceternity UI](https://ui.aceternity.com/) or [Tailspark](https://tailspark.co/) - Tailwind CSS Components
 * [TailBlocks](https://tailblocks.cc/) - Ready-to-use Tailwind CSS Blocks
 * [Terminal CSS](https://terminalcss.xyz/) - Terminal-style CSS Framework
 * [Bulma](https://bulma.io/) - CSS Framework
@@ -184,7 +185,7 @@
 
 ## Digital Brushes
 
-[brush-photoshop](https://www.brush-photoshop.fr/), [wowbrushes](https://wowbrushes.com/), [getbrushes](https://getbrushes.com/), [gfxfever](https://www.gfxfever.com/), [fbrushes](https://fbrushes.com/), [brushes_and_patterns](https://t.me/brushes_and_patterns), [myphotoshopbrushes](https://myphotoshopbrushes.com/), [brusheezy](https://www.brusheezy.com/brushes), [brushking](https://www.brushking.eu/), [tala](https://t.me/tala_photoshop_brushes)
+[brush-photoshop](https://www.brush-photoshop.fr/), [wowbrushes](https://wowbrushes.com/), [getbrushes](https://getbrushes.com/), [gfxfever](https://www.gfxfever.com/), [fbrushes](https://fbrushes.com/), [brushes_and_patterns](https://t.me/brushes_and_patterns), [myphotoshopbrushes](https://myphotoshopbrushes.com/), [brusheezy](https://www.brusheezy.com/brushes), [brushking](https://www.brushking.eu/), [tala](https://t.me/tala_photoshop_brushes), [BrushBase](https://t.me/brushbase)
 
 ***
 
@@ -224,10 +225,11 @@
 
 ## Encrypted Messengers
 
-* ⭐ **[Matrix](https://matrix.org/)**, [Nheko](https://nheko-reborn.github.io/), [Cinny](https://cinny.in/), [SchildiChat](https://schildi.chat/) or [Fluffy](https://fluffychat.im) - Matrix Clients / [Mod Tools](https://github.com/matrix-org/mjolnir)
+* ⭐ **[Matrix](https://matrix.org/)**
+* [Nheko](https://nheko-reborn.github.io/), [Cinny](https://cinny.in/), [SchildiChat](https://schildi.chat/), [Fluffy](https://fluffychat.im) or [Element](https://element.io/) / [GitHub](https://github.com/element-hq) - Matrix Clients / [Mod Tools](https://github.com/matrix-org/mjolnir)
 * ⭐ **[Signal](https://signal.org/)** / [Extract Messages](https://github.com/tbvdm/sigtop)
 
-[Element](https://element.io/) / [GitHub](https://github.com/element-hq), [Cwtch](https://docs.cwtch.im/), [Speek](https://speek.network/), [Retroshare](https://retroshare.cc/), [Off-the-Record Messaging](https://otr.cypherpunks.ca/), [Session](https://getsession.org/), [Enigma](https://enigma-reloaded.github.io/enigma-reloaded), [mx moment](https://mx-moment.xyz/), [Keybase](https://keybase.io/), [BiP](https://bip.com/en/), [SimpleX](https://simplex.chat/), [emberclear](https://emberclear.io/), [CoyIM](https://coy.im/), [RicochetRefresh](https://www.ricochetrefresh.net/), [Linphone](https://www.linphone.org/) / [GitLab](https://gitlab.linphone.org/explore/projects), [Jami](https://jami.net/) / [GitLab](https://git.jami.net/savoirfairelinux), [Tox](https://tox.chat/) / [GitHub](https://github.com/TokTok/c-toxcore), [qTox](https://qtox.github.io/) / [GitHub](https://github.com/TokTok/qTox), [Teleguard](https://teleguard.com/en)
+[Cwtch](https://docs.cwtch.im/), [Speek](https://speek.network/), [Retroshare](https://retroshare.cc/), [Off-the-Record Messaging](https://otr.cypherpunks.ca/), [Session](https://getsession.org/), [Enigma](https://enigma-reloaded.github.io/enigma-reloaded), [mx moment](https://mx-moment.xyz/), [Keybase](https://keybase.io/), [BiP](https://bip.com/en/), [SimpleX](https://simplex.chat/), [emberclear](https://emberclear.io/), [CoyIM](https://coy.im/), [RicochetRefresh](https://www.ricochetrefresh.net/), [Linphone](https://www.linphone.org/) / [GitLab](https://gitlab.linphone.org/explore/projects), [Jami](https://jami.net/) / [GitLab](https://git.jami.net/savoirfairelinux), [Tox](https://tox.chat/) / [GitHub](https://github.com/TokTok/c-toxcore), [qTox](https://qtox.github.io/) / [GitHub](https://github.com/TokTok/qTox), [Teleguard](https://teleguard.com/en)
 
 ### Matrix Home Servers
 
@@ -248,6 +250,7 @@
 * ⭐ **[Neal.fun](https://neal.fun/)**
 
 [Grant Kot](https://grantkot.com/), [Oimo](https://oimo.io/works), [AIDN](https://aidn.jp/), [Neave](https://codepen.io/neave) / [2](https://neave.com/), [BoredHumans](https://boredhumans.com/), [puissant](https://sandwichpuissant.net/), [Mr.doob](https://mrdoob.com/), [Bimble Space](https://in.bimble.space/toys), [Creative Tech Guy](https://creativetechguy.com/), [Just For Fun](https://justforfun.io/), [Andrew Marsh](https://andrewmarsh.com/software), [JenniferDewalt](https://jenniferdewalt.com/), [Chrome Experiments](https://experiments.withgoogle.com/collection/chrome), [yezi](https://yezi.itch.io/), [topster](https://topster.net/), [p5aholic](https://experiments.p5aholic.me/), [vole.wtf](https://vole.wtf/), [WilliamHoza](https://williamhoza.com/misc/), [Rinkworks](http://www.rinkworks.com/), [Orteil](https://orteil.dashnet.org/), [funwebsite](https://funwebsite.fun/), [Toms.Toys](https://toms.toys/), [Pointless Sites](https://www.pointlesssites.com/), [The Scientific Place](https://scientific.place/), [artistaiden](https://artistaiden.com/), [ToyBox](https://toybox.toms.toys/)
+
 ***
 
 ## Free DNS Resolvers
@@ -256,6 +259,7 @@
 * ⭐ **[Cloudflare 1.1.1.1](https://developers.cloudflare.com/1.1.1.1/ip-addresses/)**
 * ⭐ **[Quad9](https://quad9.net/)** - Malware, Phishing, Spyware & Botnet DNS Protection
 * [NextDNS](https://nextdns.io) / [2](https://adguard-dns.io/kb/general/dns-providers/#nextdns)
+* [⁠Unbound](https://www.nlnetlabs.nl/projects/unbound/) / [GitHub](https://github.com/NLnetLabs/unbound)
 * [Bancuh](https://bancuh.com/) / [GitHub](https://github.com/ragibkl/adblock-dns-server)
 * [Adguard](https://adguard-dns.io/en/public-dns.html)
 * [Mullvad](https://mullvad.net/en/help/dns-over-https-and-dns-over-tls)
@@ -531,7 +535,7 @@
 
 ## LibGen Tools
 
-[Desktop](https://wiki.mhut.org/software:libgen_desktop) / [Search Extension](https://chromewebstore.google.com/detail/libgen-search/cbcehgllfaddbjidleabcdjpldlognad) / [Amazon Buttons](https://pastebin.com/DdwbbhG8) / [Need Seeds](https://phillm.net/libgen-seeds-needed.php) / [Convert to Text](https://github.com/VikParuchuri/libgen_to_txt) / [Backup](https://redd.it/edwi9b) / [/r/libgen](https://reddit.com/r/libgen)
+[Search Extension](https://chromewebstore.google.com/detail/libgen-search/cbcehgllfaddbjidleabcdjpldlognad) / [Amazon Buttons](https://pastebin.com/DdwbbhG8) / [Need Seeds](https://phillm.net/libgen-seeds-needed.php) / [Convert to Text](https://github.com/VikParuchuri/libgen_to_txt) / [Backup](https://redd.it/edwi9b) / [/r/libgen](https://reddit.com/r/libgen)
 
 ***
 
@@ -637,14 +641,6 @@
 
 ***
 
-## Multi Dev Tool Sites
-
-* ⭐ **[Free for Developers](https://free-for.dev/)**
-
-[Free For Life](https://free.hrsn.dev/) / [GitHub](https://github.com/wdhdev/free-for-life/), [SmallDev.tools](https://smalldev.tools/), [WebdevHome](https://webdevhome.github.io/), [Eclipse Foundation](https://www.eclipse.org/), [DevBox](https://intab.io/resources/), [Free Developer Stuff](https://freestuff.dev/), [Tiny Tools](https://tinytools.directory/), [Clean CSS](https://www.cleancss.com/), [Dev Resources](https://devresourc.es/), [FreeFormatter.com](https://freeformatter.com/), [Utilities and Tools Online](https://utilities-online.info/), [Online String Tools](https://onlinestringtools.com/), [Coders Tool](https://www.coderstool.com/), [Prototypr](https://prototypr.io/toolbox/page/1), [AppDevTools](https://appdevtools.com/), [IT Tools](https://it-tools.tech/), [Omatsuri](https://omatsuri.app/), [devina](https://devina.io/), [wangchujiang](https://wangchujiang.com/tools/), [Addy](https://toolkit.addy.codes/), [Web Toolbox](https://web-toolbox.dev/en)
-
-***
-
 ## Music Notation Editors
 
 * ⭐ **[MuseScore](https://musescore.org/)** - Editor
@@ -677,7 +673,6 @@
 ### Specific Music Sheets
 
 * [flutetunes](https://www.flutetunes.com/) - Flute Sheet Music
-* [Game Music Themes](https://www.gamemusicthemes.com/) - Video Game Sheet Music
 * [Ichigo's Sheet Music](https://ichigos.com/) - Video Game & Anime Sheet Music
 * [Piano Sheet Music](https://drive.google.com/drive/folders/0BxkQJMTuId4dfkxiM01GYnFBUFdDVmRHMGREM1JKYVdBajJtV2pVSExrS2txT1BOdXlfMUE?resourcekey=0-4uwizkHnsGLakmC-cA173A), [2](https://drive.google.com/drive/folders/1-hieArroBCq1x6z4GQ_gdFuyEz_Ftvxg) or [Anime Sheet Music](https://drive.google.com/drive/folders/0B2k9HIXzBEfMVlgxTlhNWThzZkk?resourcekey=0-q0RdwD55Az5S3NigaliZEA) - Sheet Music Drives
 * [ChoralWiki](https://www.cpdl.org/wiki/index.php/Main_Page) - Choral Music Sheets
@@ -689,7 +684,7 @@
 * [UNT Digital Library](https://digital.library.unt.edu/explore/collections/VRBR/browse/) or [chopin](https://chopin.lib.uchicago.edu/) - Rare Manuscripts
 * [mozarteum](https://dme.mozarteum.at/DME/nma/nmapub_srch.php?l=2) - Digital Mozart Collection
 * [Brown University](https://library.brown.edu/cds/sheetmusic/afam/about.html) - African American Sheet Music
-* [Rochester University](https://urresearch.rochester.edu/viewInstitutionalCollection.action?collectionId=63), [Contemporary Music Score](https://escholarship.org/uc/uclamusicscores), [UNC](https://dc.lib.unc.edu/cdm/landingpage/collection/sheetmusic) - University Collections
+* [Contemporary Music Score](https://escholarship.org/uc/uclamusicscores), [UNC](https://dc.lib.unc.edu/cdm/landingpage/collection/sheetmusic) - University Collections
 * [Sheet Music Consortium](https://digital.library.ucla.edu/sheetmusic/) - Search Universities
 * [Public Domain Sherpa](https://www.publicdomainsherpa.com/free-sheet-music.html) - Sheet Music Resources
 
@@ -731,7 +726,7 @@
 
 ## PNG Images / Clipart
 
-[CleanPNG](https://www.cleanpng.com/), [PNGWing](https://www.pngwing.com/), [PNGEgg](https://www.pngegg.com/), [AnyRGB](https://www.anyrgb.com/), [HiClipart](https://www.hiclipart.com/), [HDClipArtAll](https://hdclipartall.com/), [pngmart](https://www.pngmart.com/), [pngall](https://www.pngall.com/), [pngplay](https://www.pngplay.com/), [freepngimg](https://www.freepngimg.com/), [KindPNG](https://www.kindpng.com/), [FreePNGLogos](https://www.freepnglogos.com/), [PNGFind](https://www.pngfind.com), [PNGHero](https://pnghero.com/), [PlusPNG](https://pluspng.com/), [PNGHut](https://pnghut.com/), [pinpng](https://pinpng.com/), [openclipart](https://openclipart.org), [transparentpng](https://www.transparentpng.com/), [pngfind](https://www.pngfind.com/), [pngfree](https://pngfree.ai/), [pikpng](https://www.pikpng.com/)
+[CleanPNG](https://www.cleanpng.com/), [PNGWing](https://www.pngwing.com/), [PNGEgg](https://www.pngegg.com/), [AnyRGB](https://www.anyrgb.com/), [HiClipart](https://www.hiclipart.com/), [HDClipArtAll](https://hdclipartall.com/), [pngmart](https://www.pngmart.com/), [pngall](https://www.pngall.com/), [pngplay](https://www.pngplay.com/), [freepngimg](https://www.freepngimg.com/), [KindPNG](https://www.kindpng.com/), [FreePNGLogos](https://www.freepnglogos.com/), [PNGFind](https://www.pngfind.com), [PNGHero](https://pnghero.com/), [PlusPNG](https://pluspng.com/), [PNGHut](https://pnghut.com/), [pinpng](https://pinpng.com/), [openclipart](https://openclipart.org), [transparentpng](https://www.transparentpng.com/), [pngfind](https://www.pngfind.com/), [pikpng](https://www.pikpng.com/)
 
 ***
 
@@ -815,10 +810,7 @@
 * ⭐ **[sms24](https://www.sms24.me/)**
 * ⭐ **[receive-sms](https://receive-sms.cc/)**
 * ⭐ **[tempsmss](https://tempsmss.com/)**
-* ⭐ **[OnlineSim](https://onlinesim.io/)**
-* ⭐ **[SMS-Activate](https://sms-activate.guru/en/freeNumbers)**
-* ⭐ **[proovl](https://proovl.com/numbers)**
-* [Direct SMS](https://www.directsms.com.au/) or [Vumber](https://www.vumber.com/) - No CC Required Trial Sites
+* [Direct SMS](https://www.directsms.com.au/) - No CC Required Trial
 
 [yunjisms](https://yunjisms.xyz/), [2ndline](https://www.2ndline.co/), [TextNow](https://www.textnow.com/), [GetFreeSMSNUmber](https://getfreesmsnumber.com/), [Smser](https://smser.net/), [SMS Receive](https://sms-receive.net/), [Receive SMS Online](https://www.receivesmsonline.net/), [My Trash Mobile](https://www.mytrashmobile.com/), [freesmsverification](http://freesmsverification.com/), [temp-sms](https://temp-sms.org/), [temporary-phone-number](https://temporary-phone-number.com/), [jiemahao](https://jiemahao.com/), [storytrain](https://www.storytrain.info/), [Temp Number](https://temp-number.com/), [receive-smss](https://receive-smss.com), [receive-sms-free](https://receive-sms-free.cc/), [quackr](https://quackr.io/), [smsnator](https://smsnator.online/), [InboxSMS](https://inboxsms.me/), [anonymsms](https://anonymsms.com/temporary-phone-number/), [receivesmsonline](https://receivesmsonline.in/), [jiemadi](https://www.jiemadi.com/en), [FreePhoneNum](https://freephonenum.com/), [ReceiveSMSOnline](https://receivesmsonline.me/), [ReceiveFreeSMS](http://receivefreesms.com/), [7sim](https://7sim.cc/), [yunjiema](https://yunjiema.net/), [supercloudsms](https://supercloudsms.com/en), [us-phone-number](https://us-phone-number.com/), [shownumber](https://lothelper.com/en/shownumber), [yunduanxin](https://yunduanxin.net/), [bestsms](https://bestsms.xyz/), [smsget](https://smsget.net/), [free-sms-receive](https://www.free-sms-receive.com/), [free-sms-receive](https://free-sms-receive.co/), [receivefreesms](https://receivefreesms.co.uk/)
 
@@ -834,9 +826,9 @@
 
 * ⭐ **[WorkshopDL](https://github.com/imwaitingnow/WorkshopDL)**
 * ⭐ **[Mod Authority](https://rentry.co/FMHYBase64#mod-authority)**
-* [NetherWorkshopDownloader](https://github.com/NethercraftMC5608/NetherWorkshopDownloader) / [Discord](https://discord.com/invite/bs9TMxMJk9)
+* [Nether Workshop Downloader](https://github.com/NethercraftMC5608/NetherWorkshopDownloader) / [Discord](https://discord.com/invite/bs9TMxMJk9)
 
-[Streamline](https://github.com/dane-9/Streamline-Workshop-Downloader), [SCMD](https://github.com/BerdyAlexei/SCMD-Workshop-Downloader-2), [steamworkshopdownloader](https://github.com/shadoxxhd/steamworkshopdownloader), [WallpaperEngineWorkshopDownloader](https://github.com/oureveryday/WallpaperEngineWorkshopDownloader)
+[Streamline](https://github.com/dane-9/Streamline-Workshop-Downloader), [SCMD](https://github.com/BerdyAlexei/SCMD-Workshop-Downloader-2), [Steam Workshop Downloader](https://github.com/shadoxxhd/steamworkshopdownloader), [Wallpaper EngineWorkshop Downloader](https://github.com/oureveryday/WallpaperEngineWorkshopDownloader)
 
 ***
 
@@ -880,21 +872,6 @@
 
 ***
 
-## Switch ROMs
-
-* ⭐ **[RUTracker Switch](https://rutracker.org/forum/viewforum.php?f=1605)** - Use VPN
-* [NXBrew](https://nxbrew.net/) / [Warning](https://github.com/fmhy/FMHY/wiki/FMHY%E2%80%90Notes.md#nxbrew-warning)
-* [Ziperto](https://ziperto.com/) / [Warning](https://github.com/fmhy/FMHY/wiki/FMHY%E2%80%90Notes.md#ziperto-warning) / [Discord](https://discord.gg/VgZ66bM87u)
-* [nsw2u](https://nsw2u.com/), [2](https://nsw2u.net/)
-* [NswRom](https://nswrom.com/)
-* [ROMsHQ](https://romshq.com/)
-* [notUltraNX](https://not.ultranx.ru/en) / Sign-Up Required
-* [taodung](https://taodung.com/)
-* [ROMSim](https://romsim.com/) / [Discord](https://discord.gg/Zgdhq7xDcd)
-* [ROMSLAB](https://romslab.com/)
-
-***
-
 ## Tab Managers
 
 * ⭐ **[Sidebery](https://github.com/mbnuqw/sidebery)**
@@ -925,18 +902,6 @@
 * [Dao](https://t.me/Dao_Qigong_Taiji_TCM_ebooks) - Spiritual Eastern Literature
 * [LibraryOfDos](https://t.me/lib_of_dos_old_vk) - Esoteric Russian Literature
 * [More Telegram eBook Channels](https://duckduckgo.com/?q=site%3At.me+books&ia=web)
-
-***
-
-## Text Adventures
-
-* Note - Text Adventures games (especially oldschool) are much easier to figure out with the help of AI chatbots. Theres are also usually guides online if you get stuck.
-
-* 🌐 **[IFDB](https://ifdb.org/)**, [IFWizz](https://ifwizz.de/if-en.html) or [IFArchive](https://www.ifarchive.org/) - Text Adventure Archives
-* 🌐 **[IFWiki](https://www.ifwiki.org/)** - Interactive Fiction Encyclopedia / Resources
-* [SolutionArchive](https://solutionarchive.com/) - Text Adventure Solutions
-
-[Seedship](https://philome.la/johnayliff/seedship/play/index.html), [TextAventures](http://textadventures.co.uk/), [Web Adventures](https://www.web-adventures.org/), [WrittenRealms](https://writtenrealms.com/), [Genesis](https://www.genesismud.org/), [Fateful Quest](https://fateful.quest/), [Level 13](https://nroutasuo.github.io/level13/)
 
 ***
 
